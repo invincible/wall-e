@@ -1,0 +1,3 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:YuriyGrinev/wall-e-backend.git
